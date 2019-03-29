@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " a ",
+    "axa",
+    " a "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:diamond"
+    },
+    "a":
+    {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result":
+  {
+    "item": "jademod:emerald_jade",
+    "count": 1,
+    "data": 0
+  }
+}

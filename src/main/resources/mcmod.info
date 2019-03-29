@@ -1,0 +1,16 @@
+[
+{
+  "modid": "spellsnrituals",
+  "name": "Spells N' Rituals",
+  "description": "Adds Spells And Rituals To Minecraft",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["panshrexual"],
+  "credits": "Shadowfacts for the forgelin library",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
